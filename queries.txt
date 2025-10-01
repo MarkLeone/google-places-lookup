@@ -1,0 +1,9 @@
+# Business queries for Google Places lookup
+# One query per line. Use format: "Business Name City" or "Business Name Address"
+# Lines starting with # are ignored
+
+SLC Christmas Lights in Salt Lake City
+Utah Holiday Lighting in Salt Lake City
+HighLighting in Salt Lake City
+Christmas Light Professionals in Salt Lake City
+
